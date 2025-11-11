@@ -1,4 +1,4 @@
-package part_1.p5_arrays_prorams;
+package part_1.p5_arrays_programs;
 
 public class p2_arrays_min
 {

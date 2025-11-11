@@ -1,6 +1,4 @@
-package part_1.p5_arrays_prorams;
-
-import java.net.SocketTimeoutException;
+package part_1.p5_arrays_programs;
 
 public class p7_MissingNumberOfAnArray {
 
