@@ -3,7 +3,7 @@ package important_programs;
 public class I2_CountCharatctersOfanString_WithoutLength
 {
     public static void main(String[] args) {
-
+      // Total no of characters in a string
         String data="hello";
         System.out.println(data.length());
         //convert to array
