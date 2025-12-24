@@ -1,4 +1,4 @@
-package important_programs;
+package important_programs.strings_problems;
 
 import java.util.TreeSet;
 

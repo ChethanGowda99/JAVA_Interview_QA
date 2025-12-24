@@ -1,4 +1,4 @@
-package important_programs;
+package important_programs.strings_problems;
 
 public class I12_CalculateSumOfAnIntegersInString {
     public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class I12_CalculateSumOfAnIntegersInString {
             }
             catch (NumberFormatException e)
             {
-                System.out.println("count");
+               
             }
 
         }

@@ -1,4 +1,4 @@
-package important_programs;
+package important_programs.arrays_problems;
 
 import java.util.Arrays;
 
