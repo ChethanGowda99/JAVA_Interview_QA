@@ -11,7 +11,8 @@ public class I11_RearrangeEvenandOdd
         int right=a.length-1;
         while(left<right)
         {
-        while (left < right && a[left]%2==0) {
+        while (left < right && a[left]%2==0)
+        {
             left++;
         }
 
